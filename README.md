@@ -11,7 +11,7 @@ https://developers.google.com/web/updates/2015/03/increasing-engagement-with-app
 
 How to integrate for George Go
 
-* Add in the head section a link to the manifest file <link rel="manifest" href="/manifest.json">
+* Add in the head section a link to the manifest file <code><link rel="manifest" href="/manifest.json"></code>
 * Add the manifest file from https://github.com/mikegr/nativeinstall/blob/gh-pages/manifest.json
 * Add the four icons. 
 https://github.com/mikegr/nativeinstall/blob/gh-pages/george_launcher[-2x|-3x|-4x].png
