@@ -23,10 +23,6 @@
       "type": "image/png"
     }
   ],
-  "start_url": "index.html",
-  "display": "standalone",
-  "orientation": "any",
-  
   "prefer_related_applications": true,
   "related_applications": [
     {
