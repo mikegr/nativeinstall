@@ -25,7 +25,7 @@
   ],
   "start_url": "index.html",
   "display": "standalone",
-  "orientation": "portrait",
+  "orientation": "any",
   
   "prefer_related_applications": true,
   "related_applications": [
