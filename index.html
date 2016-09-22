@@ -11,8 +11,8 @@
           console.log('registered service worker');
         })
         .catch(function(whut) {
-          console.error('uh oh... ');
-          console.error(whut);
+          console.log('uh oh... ');
+          console.log(whut);
         });
        
       window.addEventListener('beforeinstallprompt', function(e) {
