@@ -10,8 +10,8 @@
         .then(function(r) {
           console.log('registered service worker');
         })
-        .catch(function(whut) {
-          console.log('uh oh... ');
+        .catch(function(err) {
+          console.log(':^(', err);
         });
        
       window.addEventListener('beforeinstallprompt', function(e) {
